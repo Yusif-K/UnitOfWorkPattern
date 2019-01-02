@@ -1,0 +1,14 @@
+C:\Users\Ramil Aliyev\source\repos\UnitOfWorkPattern\UnitOfWorkPattern\obj\Debug\UnitOfWorkPattern.csprojAssemblyReference.cache
+C:\Users\Ramil Aliyev\source\repos\UnitOfWorkPattern\UnitOfWorkPattern\obj\Debug\UnitOfWorkPattern.csproj.CoreCompileInputs.cache
+C:\Users\Ramil Aliyev\source\repos\UnitOfWorkPattern\UnitOfWorkPattern\bin\Debug\UnitOfWorkPattern.exe.config
+C:\Users\Ramil Aliyev\source\repos\UnitOfWorkPattern\UnitOfWorkPattern\bin\Debug\UnitOfWorkPattern.exe
+C:\Users\Ramil Aliyev\source\repos\UnitOfWorkPattern\UnitOfWorkPattern\bin\Debug\UnitOfWorkPattern.pdb
+C:\Users\Ramil Aliyev\source\repos\UnitOfWorkPattern\UnitOfWorkPattern\bin\Debug\EntityFramework.dll
+C:\Users\Ramil Aliyev\source\repos\UnitOfWorkPattern\UnitOfWorkPattern\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ramil Aliyev\source\repos\UnitOfWorkPattern\UnitOfWorkPattern\bin\Debug\Ninject.dll
+C:\Users\Ramil Aliyev\source\repos\UnitOfWorkPattern\UnitOfWorkPattern\bin\Debug\EntityFramework.xml
+C:\Users\Ramil Aliyev\source\repos\UnitOfWorkPattern\UnitOfWorkPattern\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ramil Aliyev\source\repos\UnitOfWorkPattern\UnitOfWorkPattern\bin\Debug\Ninject.xml
+C:\Users\Ramil Aliyev\source\repos\UnitOfWorkPattern\UnitOfWorkPattern\obj\Debug\UnitOfWorkPattern.csproj.CopyComplete
+C:\Users\Ramil Aliyev\source\repos\UnitOfWorkPattern\UnitOfWorkPattern\obj\Debug\UnitOfWorkPattern.exe
+C:\Users\Ramil Aliyev\source\repos\UnitOfWorkPattern\UnitOfWorkPattern\obj\Debug\UnitOfWorkPattern.pdb
